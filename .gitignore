@@ -222,3 +222,5 @@ __marimo__/
 # Working folders
 
 datasets/
+vectors/
+.ipynb_checkpoints/
